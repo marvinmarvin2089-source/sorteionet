@@ -36,4 +36,10 @@ Desenvolvido com **HTML, CSS e JavaScript puro**, com foco em layout centralizad
 
 <img src="./assets/preview.png" alt="imagem-projeto">
  
+👨‍💻 Autor
+
+Marcus Vinícius
+Desenvolvedor Front-end em formação 🚀
+
+Se gostou do projeto, deixa uma ⭐ no repositório!
 Obrigado! 😉

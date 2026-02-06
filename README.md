@@ -42,4 +42,5 @@ Marcus Vinícius
 Desenvolvedor Front-end em formação 🚀
 
 Se gostou do projeto, deixa uma ⭐ no repositório!
+<br>
 Obrigado! 😉

@@ -35,4 +35,4 @@ Desenvolvido com **HTML, CSS e JavaScript puro**, com foco em layout centralizad
 ## 📸 Preview do projeto
 
  
-[Preview do projeto](./preview.png) 😉
+[Preview do projeto](./assets/preview.png) 😉

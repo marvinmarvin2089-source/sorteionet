@@ -38,7 +38,9 @@ Desenvolvido com **HTML, CSS e JavaScript puro**, com foco em layout centralizad
 <br>
 https://marvinmarvin2089-source.github.io/sorteionet/
 <br>
- 
+
+---
+
 👨‍💻 Autor
 
 Marcus Vinícius

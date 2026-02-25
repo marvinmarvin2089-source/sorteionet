@@ -35,6 +35,9 @@ Desenvolvido com **HTML, CSS e JavaScript puro**, com foco em layout centralizad
 ## 📸 Preview do projeto
 
 <img src="./assets/preview.png" alt="imagem-projeto">
+<br>
+https://marvinmarvin2089-source.github.io/sorteionet/
+<br>
  
 👨‍💻 Autor
 
